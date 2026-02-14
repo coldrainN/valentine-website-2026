@@ -44,7 +44,7 @@ const CONFIG = {
     loveMessages: {
         extreme: "Ваааай ты меня так любишь? 🥰🚀💝",  // Shows when they go past 5000%
         high: "Бесконечность и больше 🚀💝",              // Shows when they go past 1000%
-        normal: "Бесконечно 🥰"                           // Shows when they go past 100%
+        normal: "Сильно 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
